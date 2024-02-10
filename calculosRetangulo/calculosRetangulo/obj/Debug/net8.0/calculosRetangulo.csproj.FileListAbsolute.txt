@@ -1,0 +1,14 @@
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\bin\Debug\net8.0\calculosRetangulo.exe
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\bin\Debug\net8.0\calculosRetangulo.deps.json
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\bin\Debug\net8.0\calculosRetangulo.runtimeconfig.json
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\bin\Debug\net8.0\calculosRetangulo.dll
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\bin\Debug\net8.0\calculosRetangulo.pdb
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.AssemblyInfoInputs.cache
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.AssemblyInfo.cs
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.csproj.CoreCompileInputs.cache
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.dll
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\refint\calculosRetangulo.dll
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.pdb
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\calculosRetangulo.genruntimeconfig.cache
+C:\estudo_C_projetos\classes_exercicio1\calculosRetangulo\calculosRetangulo\obj\Debug\net8.0\ref\calculosRetangulo.dll
